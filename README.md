@@ -11,7 +11,7 @@ Donc, deux possibilités:
 
 * vous pouvez aller sur https://mybinder.org et simplement donner l'adresse de 
 ce dépôt sur github 
-(https://github.com/jjfPCSI1/notebooks_introduction_python). Attention, cela 
+(https://github.com/evanhauw/intro_notebook). Attention, cela 
 peut prendre un peu de temps au démarrage...
 
 * Vous pouvez aussi faire un téléchargement de ce dépôt (bouton "Code" puis 
