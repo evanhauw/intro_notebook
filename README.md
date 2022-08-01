@@ -26,4 +26,4 @@ puis
 jupyter-notebook
 ```
 qui devrait ouvrir votre navigateur (ou vous dire ce que vous devez faire dans 
-votre navigateur) et vous permettre d'ouvrir les Notebook correspondants.
+votre navigateur) et vous permettre d'ouvrir les Notebooks correspondants.
