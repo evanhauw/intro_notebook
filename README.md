@@ -1,6 +1,6 @@
 # Introduction aux Notebooks Python
 
-Ce dépôt contient un de Notebooks que vous pouvez utiliser pour 
+Ce dépôt contient un Notebook que vous pouvez utiliser pour 
 vous familiariser avec l'environnement Jupyter, qui permet de lire et modifier des notebooks.
 
 Les notebooks présents sur ce dépôt Github ne sont pas modifiables directement. 
